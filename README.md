@@ -1,8 +1,8 @@
 <h1> Neural Network SMS Text Classifier- ML Python Project</h1>
 <br>
 <h2>Features</h2>
-<li> </li>
-<li> </li>
+<li>Make dataframe of dataset to see data from train and test</li>
+<li>Rename the first column to 'label' and second column to 'text' and reverse the order</li>
 <li> </li>
 <li> </li>
 <li> </li>
