@@ -3,9 +3,16 @@
 <h2>Features</h2>
 <li>Make dataframe of dataset to see data from train and test</li>
 <li>Rename the first column to 'label' and second column to 'text' and reverse the order</li>
-<li> </li>
-<li> </li>
-<li> </li>
+<li>Split messages and labels from train data</li>
+<li>Define regular expressions for emails, websites, and phone numbers</li>
+<li>Spliting data into data and test data</li>
+<li>Identify and replace emails, websites, and phone numbers with special tokens</li>
+<li>Convert labels from text to numerical</li>
+<li>Tokenize the text</li>
+<li>Convert text to sequences (numerical)</li>
+<li>Pad sequences to ensure uniform length</li>
+<li>Build the model with additional features</li>
+<li>Compile the model with ADAM optimizer</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
@@ -13,7 +20,7 @@
 
 
 <h2>Photo</h2>
-<img src="image.jpg">
+<img src="photo.jpg">
 <br>
 
 <h2>Links</h2>
