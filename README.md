@@ -1,4 +1,4 @@
-![image](https://github.com/marius2347/Neural-Network-SMS-Text-Classifier-ML/assets/88798519/98764cf8-7f37-487a-8376-2c4ba227b23d)<h1> Neural Network SMS Text Classifier - ML Python Project</h1>
+<h1> Neural Network SMS Text Classifier - ML Python Project</h1>
 <br>
 <h2>Features</h2>
 <li>Create a machine learning model that will classify SMS messages as either "ham" or "spam". A "ham" message is a normal message sent by a friend. A "spam" message is an advertisement or a message sent by a company.</li>
